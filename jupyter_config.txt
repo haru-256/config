@@ -1,0 +1,1 @@
+jt -t monokai -T -N -nfs 13 -ofs 10 -tfs 11 -dfs 10 -altmd -f inconsolata

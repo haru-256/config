@@ -1,0 +1,5 @@
+クライアントID
+463761974903-elbdl1ff4dns59vqfdu6i9qu8t3tpj5j.apps.googleusercontent.com
+
+クライアント シークレット
+xiWuUCNWxAtrEXypEHe7zr4h

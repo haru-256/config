@@ -1,0 +1,10 @@
+[user]
+	name = Yohei Okabayashi
+	email = yohei.kuro48@gmail.com
+[http]
+	sslVerify = false
+[color]
+	ui = auto
+[core]
+	quotepath = false
+	pager = nkf -w | LESSCHARSET=utf-8 less
